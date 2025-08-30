@@ -31,7 +31,7 @@ v) On the main page, if you scroll down, you can find options to get a summary o
 
 <img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/a65878dc-477a-4e8f-96e9-74eb1a2c9a72" />
 
-Thanks
+If you’d like to suggest improvements or features, feel free to open an issue or reach out.
 
 
 
