@@ -1,5 +1,5 @@
 # Centralized-CheckPost
-Solves the old way of manual logs of police check post using MYSQL, Python and Streamlit platforms.
+This project replaces traditional handwritten police checkpoint logs with a digital dashboard that enables secure data entry, real-time analytics, and SQL-powered search. Built with Streamlit, MySQL, and Python, it empowers officers to log, query, and summarize checkpoint activity with ease.
 
 ## Requirements
  1. Python
