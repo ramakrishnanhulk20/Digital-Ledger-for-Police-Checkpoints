@@ -1,2 +1,2 @@
 # Centralized-CheckPost
-Solves the old way of manual logs of police check post using,
+Solves the old way of manual logs of police check post using MYSQL, Python and Streamlit platforms.
