@@ -25,7 +25,7 @@ def db_connect():
     return mysql.connector.connect(
         host = "localhost",
         user = "root",
-        password = "4122", # Change Password Authetication type to 'standard' if error showsup
+        password = "enter_your_password", # Change Password Authetication type to 'standard' if error showsup
         database = "police_checkpost_logs"
     )
 
@@ -340,3 +340,4 @@ if select_question:
     st.dataframe(df)
     cursor.close()
     conn.close()
+
