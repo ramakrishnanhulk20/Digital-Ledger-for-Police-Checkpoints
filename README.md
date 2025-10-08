@@ -10,6 +10,11 @@ This project replaces traditional handwritten police checkpoint logs with a digi
  
  installed on the device.
 
+ ## Install dependencies from requirements.txt
+Run the command below on your terminal.
+
+           pip install -r requirements.txt
+ 
  ## Steps to run the application
 i) Download Python (.py) named 'police_check_post.py' file.
 
